@@ -18,6 +18,12 @@ namespace ConsoleApplication1
 
         }
 
+        static void someotherrandom()
+        {
+
+        }
+
+
 
     }
 
