@@ -13,7 +13,10 @@ namespace ConsoleApplication1
             //hello
 
         }
+        static void random()
+        {
 
+        }
 
 
     }
